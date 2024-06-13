@@ -11,8 +11,8 @@
   <li>Anggota:</li>
   <ul>
     <li>Ketua: <a href="https://github.com/SalsaCZA">Salsa Camelia Zahra</a></li>
-    <li>Anggota 1: <a href="https://github.com/SalsaCZA">Salsa Camelia Zahra - 21552011135</a></li>
-    <li>Anggota 2: <a href="https://github.com/syxherr">Shaskia Putri Devi - 21552011082</a></li>
+    <li>Anggota 1: <a href="https://github.com/SalsaCZA">Salsa Camelia Zahra</a> - 21552011135</li>
+    <li>Anggota 2: <a href="https://github.com/syxherr">Shaskia Putri Devi</a> - 21552011082</li>
   </ul>
 </ul>
  
