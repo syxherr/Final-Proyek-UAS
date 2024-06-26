@@ -27,7 +27,7 @@
                 <a href="#"><i class='bx bx1-instagram-alt'></i></a>
                 <a href="#"><i class='bx bx1-github'></i></a>
             </div> -->
-            <a href="#" class=btn>Vote</a>
+            <a href="#" class="btn" id="voteButton">Vote</a>
 
         </div>
         <div class="prop-img1">
@@ -82,5 +82,12 @@
    </footer>
 
    <script src="https://unpkg.com/scrollreveal"></script>
-   <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script></body>
+   <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+   <script>
+    document.getElementById('voteButton').addEventListener('click', function() {
+        window.location.href = '/view/index.html';
+    });
+</script>
+
+</body>
 </html>
